@@ -7,13 +7,12 @@
 * **Authors:** Shuying Li, Jiaxian Xiang, Shanglin Zeng
 
 ## Introduction
+This project utilizes Singular Value Decomposition (SVD), KBNet, and NAFNet for the task of image denoising. The primary objective of this project is to explore the role of linear algebra in denoising images and learn advancing state-of-the-art (SOTA) techniques in this field.
 
-
-
-[Report link](www.google.com)
+[Report](www.google.com)
 
 ## Benchmark Datasets
-1. Urban 100 dataset - [Download Link](https://uofi.box.com/shared/static/65upg43jjd0a4cwsiqgl6o6ixube6klm.zip)
+1. Urban 100 dataset - [Download](https://uofi.box.com/shared/static/65upg43jjd0a4cwsiqgl6o6ixube6klm.zip)
 2. BSD 100 dataset - [Download](https://uofi.box.com/shared/static/qgctsplb8txrksm9to9x01zfa4m61ngq.zip)
 3. Sun-Hays 80 dataset - [Download](https://uofi.box.com/shared/static/rirohj4773jl7ef752r330rtqw23djt8.zip)
 
@@ -24,9 +23,11 @@
 * CUDA in Goggle Colab
 ## SOTA
 > [!IMPORTANT]
-> NAFNet and KBNet were implemented in Google Colab. Links was contained in the Jupyter Notebook.
+> NAFNet and KBNet were implemented in Google Colab. The link was contained in the Jupyter Notebook.
 * [NAFNet](https://github.com/megvii-research/NAFNet)
 * [KBNet](https://github.com/zhangyi-3/kbnet)
 
 ## Results
+![](figures/results1.png)
 
+![](figures/results2.png)
