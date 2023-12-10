@@ -9,8 +9,6 @@
 ## Introduction
 This project utilizes Singular Value Decomposition (SVD), KBNet, and NAFNet for the task of image denoising. The primary objective of this project is to explore the role of linear algebra in denoising images and learn advancing state-of-the-art (SOTA) techniques in this field.
 
-[Report](www.google.com)
-
 ## Benchmark Datasets
 1. Urban 100 dataset - [Download](https://uofi.box.com/shared/static/65upg43jjd0a4cwsiqgl6o6ixube6klm.zip)
 2. BSD 100 dataset - [Download](https://uofi.box.com/shared/static/qgctsplb8txrksm9to9x01zfa4m61ngq.zip)
@@ -27,7 +25,4 @@ This project utilizes Singular Value Decomposition (SVD), KBNet, and NAFNet for 
 * [NAFNet](https://github.com/megvii-research/NAFNet)
 * [KBNet](https://github.com/zhangyi-3/kbnet)
 
-## Results
-![](figures/results1.png)
-
-![](figures/results2.png)
+More details are shown in [Report Link](https://shrimp-lerning-lab.notion.site/DSC-210-Final-Project-FW-23-dfb7da10c65e4ffa900f2be4616b2c2c?pvs=4)
