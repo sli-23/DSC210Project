@@ -25,4 +25,7 @@ This project utilizes Singular Value Decomposition (SVD), KBNet, and NAFNet for 
 * [NAFNet](https://github.com/megvii-research/NAFNet)
 * [KBNet](https://github.com/zhangyi-3/kbnet)
 
-More details are shown in [Report Link](https://shrimp-lerning-lab.notion.site/DSC-210-Final-Project-FW-23-dfb7da10c65e4ffa900f2be4616b2c2c?pvs=4)
+**Trained results:**
+* (KBNet Trained Results)[https://drive.google.com/file/d/1SE1osx_RdqalV0v5LzGhPEPVb36L5Uh3/view?usp=sharing]
+* (NAFNet Trained Results)[https://drive.google.com/file/d/1vJZXbhQS25Z-IgD9ZkwZ43yjFfHccLa5/view?usp=sharing]
+
