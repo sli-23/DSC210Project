@@ -18,7 +18,7 @@ This project utilizes Singular Value Decomposition (SVD), KBNet, and NAFNet for 
 ```python
 !pip install -r requirements.txt
 ```
-* CUDA in Goggle Colab
+
 ## SOTA
 > [!IMPORTANT]
 > NAFNet and KBNet were implemented in Google Colab. The link was contained in the Jupyter Notebook.
@@ -26,6 +26,6 @@ This project utilizes Singular Value Decomposition (SVD), KBNet, and NAFNet for 
 * [KBNet](https://github.com/zhangyi-3/kbnet)
 
 **Trained results:**
-* (KBNet Trained Results)[https://drive.google.com/file/d/1SE1osx_RdqalV0v5LzGhPEPVb36L5Uh3/view?usp=sharing]
-* (NAFNet Trained Results)[https://drive.google.com/file/d/1vJZXbhQS25Z-IgD9ZkwZ43yjFfHccLa5/view?usp=sharing]
+* [KBNet Trained Results](https://drive.google.com/file/d/1SE1osx_RdqalV0v5LzGhPEPVb36L5Uh3/view?usp=sharing)
+* [NAFNet Trained Results](https://drive.google.com/file/d/1vJZXbhQS25Z-IgD9ZkwZ43yjFfHccLa5/view?usp=sharing)
 
